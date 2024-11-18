@@ -65,7 +65,7 @@
 
 ### 🚀 Featured Projects
 
-- **[Visitly.io](https://visitly.io)** - Product Manager and Junior Backend Developer contributing to the product's continuous growth and improvement. Check out our ongoing work [here](https://github.com/Visitly).
+- **[Visitly.io](https://visitly.io)** - Product Manager and Junior Backend Developer contributing to the product's continuous growth and improvement. 
 - **[QA Tester](https://github.com/AakashBedi01/QAtester)** - A tool I created for regression testing, helping improve code quality through automated testing.
 - **[WeatherApp](https://github.com/AakashBedi01/WeatherApp)** - A weather forecast app built using React and integrated with weather APIs to provide real-time data to users.
 
@@ -77,11 +77,3 @@ Feel free to reach out for collaborations, questions, or just a friendly chat ab
 
 ---
 
-This profile structure includes sections for:
-- A welcoming **introduction**.
-- **Contact information** with easy-to-find links.
-- A **showcase of your skills** with tool and language icons.
-- A **GitHub stats** card that visually highlights your contributions and most-used languages.
-- A list of **featured projects** that links to repositories and gives context about your current work.
-
-By adding sections like **About Me**, **Featured Projects**, and **GitHub Stats**, you not only present your technical abilities but also encourage engagement and collaboration. This layout will make your GitHub profile stand out to both potential employers and collaborators.
