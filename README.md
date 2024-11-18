@@ -25,7 +25,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AakashBedi01" height="30" width="40" />
   </a>
   <a href="mailto:akashdeepsinghbedi@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="AakashBedi01" height="30" width="40" />
+    <img align="center" src="https://www.flaticon.com/free-icons/gmail" title="gmail icons" alt="AakashBedi01" height="30" width="40" />
   </a>
 </p>
 
