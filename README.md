@@ -46,17 +46,8 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashbedi01&show_icons=true&locale=en&layout=compact" alt="aakashbedi01" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashbedi01&show_icons=true&locale=en" alt="aakashbedi01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashbedi01&" alt="aakashbedi01" /></p>
-
----
+--
+--
 
 ### 🚀 Featured Projects
 
