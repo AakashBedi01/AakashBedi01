@@ -15,19 +15,6 @@
 
 ---
 
-### 💻 Connect with Me:
-
-<p align="center">
-  <a href="https://linkedin.com/in/aakashbedi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakashbedi" height="30" width="40" />
-  </a>
-  <a href="https://github.com/AakashBedi01" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AakashBedi01" height="30" width="40" />
-  </a>
-  <a href="mailto:akashdeepsinghbedi@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" />
-  </a>
-</p>
 
 
 
