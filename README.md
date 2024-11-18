@@ -51,17 +51,11 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashbedi01&show_icons=true&locale=en" alt="AakashBedi01" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashbedi01&show_icons=true&locale=en&layout=compact" alt="aakashbedi01" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashbedi01&" alt="AakashBedi01" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashbedi01&show_icons=true&locale=en" alt="aakashbedi01" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashbedi01&show_icons=true&locale=en&layout=compact" alt="AakashBedi01" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashbedi01&" alt="aakashbedi01" /></p>
 
 ---
 
