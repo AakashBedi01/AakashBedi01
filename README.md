@@ -25,13 +25,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AakashBedi01" height="30" width="40" />
   </a>
   <a href="mailto:akashdeepsinghbedi@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Google_Gmail_logo_2020.svg" alt="Gmail" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Google_Gmail_logo_2020.svg](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.flaticon.com/free-icons/gmail" title="gmail icons">Gmail icons created by Freepik - Flaticon</a>
-</p>
 
 
 ---
